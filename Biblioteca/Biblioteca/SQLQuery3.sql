@@ -49,3 +49,4 @@ create table generos (
 idGenero int not null primary key identity,
 genero varchar (20) not null
 );
+ 
