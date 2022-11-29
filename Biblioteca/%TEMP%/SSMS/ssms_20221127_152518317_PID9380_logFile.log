@@ -1,0 +1,18 @@
+﻿2022-11-27T15:25:18.316       16244 UserSettings                   ConnectionOptions                        Warning          Password removed from user settings file for instance 'LAPTOP-RT7255D5\SQLEXPRESS' and authentication type 0
+2022-11-27T15:25:18.319       16244 UserSettings                   Settings<T>                              Information      User Settings save scheduled.
+2022-11-27T15:25:19.363        9848 UserSettings                   Settings<T>                              Information      User Settings successfully saved.
+2022-11-27T15:30:55.955       16244 UserSettings                   ConnectionOptions                        Warning          Password removed from user settings file for instance 'LAPTOP-RT7255D5\SQLEXPRESS' and authentication type 0
+2022-11-27T15:30:55.955       16244 UserSettings                   Settings<T>                              Information      User Settings save scheduled.
+2022-11-27T15:30:56.972        9848 UserSettings                   Settings<T>                              Information      User Settings successfully saved.
+2022-11-27T15:40:16.048       14540 UserSettings                   Settings<T>                              Information      User Settings save scheduled.
+2022-11-27T15:40:17.072       11372 UserSettings                   Settings<T>                              Information      User Settings successfully saved.
+2022-11-27T15:41:22.728       16244 UserSettings                   ConnectionOptions                        Warning          Password removed from user settings file for instance 'LAPTOP-RT7255D5\SQLEXPRESS' and authentication type 0
+2022-11-27T15:41:22.728       16244 UserSettings                   Settings<T>                              Information      User Settings save scheduled.
+2022-11-27T15:41:23.738        7820 UserSettings                   Settings<T>                              Information      User Settings successfully saved.
+2022-11-27T15:41:33.004       16244 UserSettings                   ConnectionOptions                        Warning          Password removed from user settings file for instance 'LAPTOP-RT7255D5\SQLEXPRESS' and authentication type 0
+2022-11-27T15:41:33.004       16244 UserSettings                   Settings<T>                              Information      User Settings save scheduled.
+2022-11-27T15:41:34.037       13820 UserSettings                   Settings<T>                              Information      User Settings successfully saved.
+2022-11-27T15:42:17.858        5128 UserSettings                   Settings<T>                              Information      User Settings save scheduled.
+2022-11-27T15:42:18.876        7632 UserSettings                   Settings<T>                              Information      User Settings successfully saved.
+2022-11-27T15:42:24.235       16244 UserSettings                   Settings<T>                              Information      User Settings to be saved immediately.
+2022-11-27T15:42:24.239       16244 UserSettings                   Settings<T>                              Information      User Settings successfully saved.
